@@ -1,0 +1,37 @@
+{
+  "name": "athpublic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "athpublic",
+  "license": "ISC",
+  "dependencies": {
+    "discord-anti-spam": "^1.1.1",
+    "discord-bans": "^2.2.2",
+    "discord-rpc-constructor": "^1.0.0",
+    "google-translate-api": "^2.3.0",
+    "discord.js": "^11.3.0",
+    "jimp": "^0.2.28",
+    "meteor-ping": "^1.0.3",
+    "moment": "^2.20.1",
+    "mongoose": "^5.0.4",
+    "nick-generator": "^1.0.0",
+    "nicknames": "^1.0.2",
+    "cleverbot-node": "^0.3.11",
+    "ping": "^0.2.2",
+    "gif-search": "2.0.1",
+    "fortnite": "4.0.1",
+    "os-utils": "0.0.14",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.1",
+    "ytdl-core": "^0.20.1",
+    "express": "^4.16.2",
+    "ffmpeg": "0.0.4",
+    "google-auth-library": "^1.2.1",
+    "googleapis": "^25.0.0"
+  }
+}
